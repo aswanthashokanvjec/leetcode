@@ -1,2 +1,4 @@
-# leetcode
-practice programing code
+# LEETCODE
+ASWANTH ASHOKAN
+VJEC
+COMPUTER SCIENCE ENGINEERING
